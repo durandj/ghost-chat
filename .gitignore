@@ -1,0 +1,8 @@
+*.pyc
+*.swo
+*.swp
+
+/db.sqlite3
+/ghost_chat/ui/static/lib
+/static
+

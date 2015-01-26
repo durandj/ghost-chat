@@ -1,0 +1,40 @@
+body
+{
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+nav.navbar-fixed-top
+{
+	margin: 0;
+	position: inherit;
+}
+
+nav a .glyphicon
+{
+	display: inline-block;
+	margin-left: 4px;
+}
+
+main
+{
+	flex: 1;
+}
+
+footer ul
+{
+	display: flex;
+	flex-direction: rows;
+	justify-content: center;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer ul li a
+{
+	display: block;
+	padding: 8px;
+}
+

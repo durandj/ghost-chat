@@ -1,0 +1,17 @@
+main
+{
+	display: flex;
+}
+
+.login
+{
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+
+.login .panel
+{
+	width: 300px;
+}
+
